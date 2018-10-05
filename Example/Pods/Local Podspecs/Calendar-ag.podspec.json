@@ -1,0 +1,22 @@
+{
+  "name": "Calendar-ag",
+  "version": "0.1.0",
+  "summary": "A short description of Calendar-ag.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/amin.gheynarloo@gmail.com/Calendar-ag",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "amin.gheynarloo@gmail.com": "amin.gheynarloo@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/amin.gheynarloo@gmail.com/Calendar-ag.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Calendar-ag/Classes/**/*"
+}

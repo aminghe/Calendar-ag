@@ -1,0 +1,16 @@
+PODS:
+  - Calendar-ag (0.1.0)
+
+DEPENDENCIES:
+  - Calendar-ag (from `../`)
+
+EXTERNAL SOURCES:
+  Calendar-ag:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Calendar-ag: 4e4fa84e43c4a0b5b8f86a85fc3179899eb133ed
+
+PODFILE CHECKSUM: a8a6a2eb70aeb644150a11d47216852e5f4e3280
+
+COCOAPODS: 1.5.3

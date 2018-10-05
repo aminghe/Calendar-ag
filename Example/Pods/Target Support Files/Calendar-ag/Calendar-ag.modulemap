@@ -1,0 +1,6 @@
+framework module Calendar_ag {
+  umbrella header "Calendar-ag-umbrella.h"
+
+  export *
+  module * { export * }
+}

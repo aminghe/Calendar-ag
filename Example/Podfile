@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Calendar-ag_Example' do
+  pod 'Calendar-ag', :path => '../'
+
+  target 'Calendar-ag_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
